@@ -1,7 +1,7 @@
 **Sales Dashboard**
 This is a Streamlit-based sales dashboard application.
 
-🚀 **Live Demo**: https://smart-sales-analytics.streamlit.app/
+🚀 **Live Demo**: https://ai-powered-eda-dashboard.streamlit.app/
 
 **Features**
 Interactive sales analytics
