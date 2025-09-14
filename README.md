@@ -115,11 +115,11 @@ The system provides multiple dataset formats for customized reporting.
 
 What Makes This Project Unique?
 
-Live Data Filtering & Insights: Instantly apply filters and watch data visualizations update in real time.
+**Live Data Filtering & Insights: Instantly apply filters and watch data visualizations update in real time.
 Comprehensive Time-Series Analysis: Users can track business performance over various time periods.
 Interactive Treemap Visualization: Explore how sales and profit vary across regions, categories, and subcategories in a hierarchical view.
 User-Friendly Interface: The dashboard is intuitive, requiring minimal technical expertise to operate.
-Custom Export Feature: Download specific data segments for further analysis in external tools.
+Custom Export Feature: Download specific data segments for further analysis in external tools.**
 
 Conclusion
 
